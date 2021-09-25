@@ -7,7 +7,9 @@ The code allows for a particular data key to be retrieved individually
 
 ## Prerequisite:
 Need to have existing VM in the azure cloud subscription.
+
 Need to know the name of the Resource Group where VM is present
+
 Need to know the name of the VM
 
 
