@@ -48,7 +48,7 @@ Steps to follow:
 13. Enter the DataKey when prompted. 
 Type "ALL" and this will give all the details. Select specific datakey from below for specific information. Select as per requirement from below.
 
-ALL, ResourceGroupName,Id,VmId,Name,Type,Location,Tags,DiagnosticsProfile,HardwareProfile,NetworkProfile,OSProfile,ProvisioningState,StorageProfile 
+ALL,ResourceGroupName,Id,VmId,Name,Type,Location,Tags,DiagnosticsProfile,HardwareProfile,NetworkProfile,OSProfile,ProvisioningState,StorageProfile 
 
 You will see the details in JSON format.
 
