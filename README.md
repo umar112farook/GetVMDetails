@@ -39,7 +39,7 @@ Steps to follow:
 
 	cd GetVMDetails
 	
-9. Run the below command to see the output in console
+9. Run the below command to and enter the required paramters values
 
         .\GetVMdetails.ps1
 	
