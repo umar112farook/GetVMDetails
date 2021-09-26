@@ -31,7 +31,7 @@ Steps to follow:
 
 	az account set --subscription "<subscription_id_or_subscription_name>"
 	
-7. Clone the terraform repo from GITHUB with below command.
+7. Clone the repo from GITHUB with below command.
 
 	git clone https://github.com/umar112farook/GetVMDetails.git
 	
